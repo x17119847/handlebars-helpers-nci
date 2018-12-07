@@ -1,0 +1,15 @@
+{
+  "name": "handlebars-helpers-nci",
+  "version": "1.0.1",
+  "description": "Helper functions for use with Handlebars template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Helper",
+    "Handlebars"
+  ],
+  "author": "NCI Student Number 17119847",
+  "license": "ISC"
+}
