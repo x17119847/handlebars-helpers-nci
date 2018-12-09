@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helpers-nci",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helper functions for use with Handlebars template engine",
   "main": "index.js",
   "scripts": {
