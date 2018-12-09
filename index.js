@@ -14,6 +14,11 @@ module.exports = {
     }
   },
 
+  // Strip Tags
+  stripTags: str => {
+    return str.replace(/<(?:.|\n)*?>/gm, '');
+  },
+
   // Times (for loop) - creates a short cut for making multiple iterations.
   times: (n, block) => {
     let accum = '';
